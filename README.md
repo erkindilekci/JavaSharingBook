@@ -10,7 +10,8 @@
 - Firebase Firestore
 - Firebase Storage
 - Glide
-
+- RecyclerView
+- ViewBinding
 
 ## License
 ```xml
